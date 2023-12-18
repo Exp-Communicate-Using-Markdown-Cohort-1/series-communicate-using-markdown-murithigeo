@@ -5,5 +5,5 @@
 ```
 npm i exegesis-express yarn express
 ```
-- [] bbox-parameter parsing complete?
+- [ ] bbox-parameter parsing complete?
 - [x] content-crs header working
